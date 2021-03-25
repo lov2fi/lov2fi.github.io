@@ -5,3 +5,5 @@
 * bundle add jekyll
 * jekyll serve
 * localhost:4000
+https://jekyllrb.com/
+https://jekyllrb-ko.github.io/
